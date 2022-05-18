@@ -1,0 +1,7 @@
+Skill 1: Text Documentation
+Skill 2: Git Bash
+Skill 3: Postman
+Skill 4: GitHub
+Skill 5: MySQL
+Skill 6: Sniffers
+Skill 7: Bug Reports
