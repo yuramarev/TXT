@@ -1,4 +1,5 @@
 Bug ID:
+       
         "ID Number": "#AB123",
         "Name": "Navigation Bar (Home Page): Proceed button not responding",
         "Reporter": "Yura Marev",
@@ -12,10 +13,12 @@ Bug Overview:
         "Platform": "Macintosh"
 
 Environment:
+
         "Operating system": "OS X 10.12.0",
         "Browser": "Chrome"
 
 Bug details:
+
         "Steps to reproduce":
             "Step 1": "Open the Home Page",
             "Step 2": "Click the drop-down menu in the navigation bar",
@@ -27,6 +30,7 @@ Bug details:
         "Description": "-"
 
 Bug tracking:
+
         "Severity": "Major",
         "Assigned to": "-",
         "Priority": "High"
