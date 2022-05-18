@@ -1,1 +1,35 @@
+Bug ID:
+        "ID Number": "#AB123",
+        "Name": "Navigation Bar (Home Page): Proceed button not responding",
+        "Reporter": "Yura Marev",
+        "Submit Date": "05/18/2022"
+
+Bug Overview:
+
+        "Summary": "Bla-bla-bla",
+        "URL": "www.blablabla.com/sign-up",
+        "Screenshot": "Attached below",
+        "Platform": "Macintosh"
+
+Environment:
+        "Operating system": "OS X 10.12.0",
+        "Browser": "Chrome"
+
+Bug details:
+        "Steps to reproduce":
+            "Step 1": "Open the Home Page",
+            "Step 2": "Click the drop-down menu in the navigation bar",
+            "Step 3": "Enter your email address and click on the proceed button"
+       
+
+        "Expected result": "I should've been taken the player page when I clicked on the proceed button",
+        "Actual result": "When I clicked on the proceed button, it showed an 'error' message",
+        "Description": "-"
+
+Bug tracking:
+        "Severity": "Major",
+        "Assigned to": "-",
+        "Priority": "High"
+
+    
 
