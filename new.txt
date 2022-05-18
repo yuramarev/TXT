@@ -1,0 +1,6 @@
+Last name: Marev
+First name: Yura
+Patromymic: Yurievich
+Age: 30
+Pets: 0
+Salary: 5000
